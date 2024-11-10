@@ -1,1 +1,2 @@
-# lab_nucleare_2_gruppo_2
+# Lab Nucleare, Gruppo 2
+
